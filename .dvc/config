@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://video-streaming-bucket-mystreaming-low/dvc-storage
